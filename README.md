@@ -1,3 +1,3 @@
 # SQL-Projects
 
-This Reporistory contains various queries used for pulling data for past projects. 
+This repository contains various queries used for pulling data for past projects. 
